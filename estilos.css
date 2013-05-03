@@ -1,0 +1,45 @@
+body{
+
+	background-color:green;
+	color:white;
+	font-family:Helvetica,Arial;
+	font-size:16px;
+}
+
+h1{
+	text-align:center;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+#contenedor{
+	background: white;
+	border-radius: 0.5em; /* el border redondeado tendra el tamanno del elemento mas cercano*/
+	color: #333;
+	margin: 1em auto;
+	padding: 1em 0;
+	vertical-align: top;
+	width: 95%;
+}
+
+#contenedor article{
+	background: #1A9DE0;
+	border-radius: 0.5em;
+	display: inline-block;
+	margin: 0 2%;
+	min-height:350px;
+	padding:0.5em;
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	transition: all 0.5s ease-in;
+	/*-webkit-transition: all 0.5s ease-in;*/
+	vertical-align: top;
+	width:40%;
+}
+
+
+#contenedor article:hover{
+	background: #AAA;
+	transform: rotate(4deg) translateX(10px); /* atributo especial de css3*/
+	/*-webkit-transform: rotate(4deg) translateX(10px);*/
+}
+
+
