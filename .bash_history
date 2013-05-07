@@ -1,12 +1,3 @@
-git push origin maaster
-git pull origin master
-git push origin master
-git remote add origin git@github.com:tiposaurio/mejorandola.git
-git config --global user.name "tiposaurio"
-git config --global user.email tiposaurio@gmail.com
-git pull origin master
-git push origin master
-git add baja.txt
 git commit -a -m "esto es para bajar mi proyect"
 git status
 nano index.html 
@@ -498,3 +489,12 @@ cd
 crontab
 crontab -e
 cd /var/www
+cd /var/www
+ls
+git init
+git add .
+git commit -m "fejbvh"
+git push origin master
+git remote rm origin
+git remote -v
+git remote -v
