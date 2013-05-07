@@ -1,5 +1,5 @@
 #! /bin/sh
-#permisos de ejecucion del demonio...y de este archivo.
+
 git init
 git config --global user.name "lelis"
 git config --global user.email tiposaurio@gmail.com
