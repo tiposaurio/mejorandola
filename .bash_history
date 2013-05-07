@@ -1,146 +1,3 @@
-    4  nano /etc/network/interfaces
-    5  cd ..
-    6  nano /etc/network/int
-    7  nano /etc/network/int
-    8  cd ..
-    9  nano /etc/netw
-   10  cd ..
-   11  nano /etc/netwo
-   12  /etc/init.d/networking s
-   13  /etc/init.d/networking start
-   14  route -n
-   15  ping 8.8.8.8
- 
-   17  nano /etc/network/interfaces
-   18  nano /etc/network/interfaces
-   19  /etc/init.d/networking stop
-  
-   21  route -n
-   22  ping 192.128.1.35
-   
- history | more 
-more -/.bash_history
-more -/.bash_history
-ifconfig
-ifconfig eth1
-nano /etc/network/interfaces
-/etc/init.d/networking  stop
-/etc/init.d/networking  start
-ping 192.168.1.1
-
-ping 192.168.1.1
-route -n
-ping 192.168.1.1
-/etc/init.d/networking  stop
-/etc/init.d/networking  start
-ping 8.8.8.8
-ping 192.168.1.1
-ping 192.168.1.1
-nano /etc/network/interfaces
-/etc/init.d/networking  stop
-nano /etc/network/interfaces
-ifconfig | more
-ifconfig 
-ifconfig eth1
-
-ifconfig eth5
-ifconfig eth5 up
-ifconfig eth6 up
-/etc/init.d/networking  stop
-/etc/init.d/networking  staert
-/etc/init.d/networking  start
-ping 192.168.1.1
-ping 192.168.1.1
-ping 192.168.1.1
-/etc/init.d/networking  restart
-ping 192.168.1.1
-route -n
-ping 192.168.1.1
-ifconfig eth1
-ifconfig 
-ifconfig | more
-ifconfig 
-ifconfig 192.168.1.1
-
-ifconfig eth1 up
-/etc/init.d/networking  restart
-/etc/init.d/networking  stop
-/etc/init.d/networking  stop
-
-ping 192.168.1.1
-/etc/init.d/networking  restart
-/etc/init.d/networking  stop
-/etc/init.d/networking  stop
-/etc/init.d/networking  start
-ping 192.168.1.1
-nano /etc/network/interfaces
-nano /etc/network/interfaces
-/etc/init.d/networking  stop
-nano /etc/network/interfaces
-/etc/init.d/networking  stop
-/etc/init.d/networking  start
-ping 192.168.1.1
-ping 8.8.8.8
-
-nano /etc/init.d/routeo.sh
-chmod 777 /etc/init.d/routeo.sh 
-/etc/init.d/
-chmod 777 /etc/init.d/firewall.sh 
-/etc/init.d/firewall.sh 
-nano /etc/network/interfaces
-ping 192.168.1.1
-ping 8.8.8.8
-ping 192.168.27.2
-ifconfig eth1
-ping 192.168.1.34
-ping 192.168.56.1
-w3m google.com
-cat /root/.ssh/id_rsa.pub 
-cd /var/www/
-ls
-nano index.html 
-ls
-unzip wp.zip
-apt-get install unzip
-unzip wp.zip
-wget https:/wordpress-3.5.1-es_ES.zip
-wget https://wordpress.org/wordpress-3.5.1-es_ES.zip
-ping 8.8.8.8
-wget http:/wordpress.org/wordpress-3.5.1-es_ES.zip
-wget https:/wordpress.org/wordpress-3.5.1-es_ES.zip
-wget https://wordpress.org/wordpress-3.5.1-es_ES.zip
-wget https://www.wordpress.org/wordpress-3.5.1-es_ES.zip
-ls
-unzip wordpress-3.5.1-es_ES.zip 
-wget https://www.wordpress.org/wordpress-3.5.1-es_ES.zip
-ls
-unzip wordpress-3.5.1-es_ES.zip 
-apt-get install unzip
-unzip wordpress-3.5.1-es_ES.zip 
-unzip wordpress-3.5.1-es_ES.zip.1 
-cd wordpress-3.5.1-es_ES
-ls -la
-cd ..
-cd ..
-git init
-cd /var/www/
-git init
-cd ..
-cd ..
-cd /etc/network/git
-cd /etc/network/
-ls
-cd ..
-cd ..
-apt-get install git
-cd /var/www/
-git init .
-apt-get install git
-git init 
-touch baja.txt
-ls
-git add baja.txt
-git commit -a -m "esto es para bajar mi proyect"
 git push origin maaster
 git pull origin master
 git push origin master
@@ -498,3 +355,146 @@ unzip wordpress-3.5.1-es_ES.zip
 rm wordpress-3.5.1-es_ES.zip 
 ls
 git diff
+cd /var/www
+ls
+nano mensaje.sh 
+crontab -e
+/etc/init.d/cronstop
+/etc/init.d/cron stop
+/etc/init.d/cron start
+chmod 777 mensaje.sh 
+touch prueba007.txt
+ls
+crontab -e
+ls
+crontab -e
+/etc/init.d/cron restart
+./
+/etc/init.d/cron restart
+crontab -e
+./mensaje.sh 
+crontab -e
+/etc/init.d/cron stop
+/etc/init.d/cron start
+
+cd /home/lelis/proyecto
+ls
+cd ..
+
+nano mensaje.sh 
+chmod 777 mensaje.sh 
+cd
+crontab -e
+/etc/init.d/cron restart
+
+crontab -e
+/etc/init.d/cron restart
+ping 8.8.8.8
+date
+crontab -e
+/etc/init.d/cron restart
+crontab -e
+/etc/init.d/cron restart
+crontab -e
+/etc/init.d/cron restart
+crontab -e
+/etc/init.d/cron restart
+crontab -e
+crontab -e
+/etc/init.d/cron restart
+cd /var/www
+ls
+touch prueba12.txt
+ls
+ls
+crontab -e
+/etc/init.d/cron restart
+cd /etc/init.d/
+ls
+nano routeo.sh 
+chmod 777 routeo.sh 
+./routeo.sh 
+./routeo.sh 
+nano routeo.sh 
+./routeo.sh 
+./routeo.sh 
+nano routeo.sh 
+./routeo.sh 
+route -n
+nano routeo.sh 
+./routeo.sh 
+ping 192.168.25.2
+ping 192.168.25.2
+ping 192.168.1.1
+ping www.google.com
+ping 192.168.13.2
+ping 192.168.13.1
+nano /etc/init.d/routeo.sh 
+cp /etc/init.d/routeo.sh @192.168.11.1:/etc/init.d/
+scp /etc/init.d/routeo.sh @192.168.11.1:/etc/init.d/
+scp /etc/init.d/routeo.sh @192.168.11.2:/etc/init.d/
+
+nano /etc/init.d/routeo.sh 
+/etc/init.d/routeo.sh 
+nano /etc/init.d/routeo.sh 
+/etc/init.d/routeo.sh 
+nano /etc/init.d/routeo.sh 
+nano /etc/init.d/routeo.sh 
+/etc/init.d/routeo.sh 
+/etc/init.d/routeo.sh 
+nano /etc/init.d/routeo.sh 
+nano hostname
+hostname
+nano hostname
+nano /etc/hostname
+hostname ararat
+nano /etc/hostname
+chmod 777 
+nano /etc/hostname
+chmod 777 /etc/hostname
+/etc/hostname
+nano /etc/hostname
+cd /etc/hostname
+cd /etc/hostname/
+cd /etc/
+ls
+nano hostname 
+cd
+nano /etc/host
+
+/etc/hostname
+/etc/hostname:
+cd /home
+ls
+cd /root
+cd root
+cd /root/user
+cd /user
+cd /home
+ls
+/var/www
+cd /var/www
+ls
+cd
+nano /etc/sysconf/network
+nano /etc/sysconf
+cd /etc/sysconf
+cd /etc/sysctl.d/
+ls
+cd /etc/sysconf
+cd /etc/sysconfig
+cd /etc/hosts
+cd /etc/host
+cd /etc/
+ls
+ping 192.168.50.200
+ping 192.168.50.200
+/etc/init.d/firewall.sh 
+route -n
+ping 192.168.13.2
+cd /var/www
+ccd
+cd
+crontab
+crontab -e
+cd /var/www
