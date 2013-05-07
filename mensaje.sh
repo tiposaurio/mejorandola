@@ -8,6 +8,7 @@ git remote add origin git@github.com:tiposaurio/mejorandola.git
 git add .
 git status
 git commit -a  -m  "este es mi archivo de git"
+git clone git@github.com:tiposaurio/mejorandola.git
 git status
 git pull origin master
 git push origin master
